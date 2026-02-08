@@ -35,8 +35,8 @@ Python · pandas · NumPy · scikit-learn · XGBoost · SHAP · matplotlib · se
 ## How to Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/lending-club-loan-default.git
-cd lending-club-loan-default
+git clone https://github.com/sweiwong/lending-club.git
+cd lending-club
 pip install pandas numpy scikit-learn xgboost shap matplotlib seaborn
 jupyter notebook lending_club_analysis.ipynb
 ```
